@@ -1,0 +1,737 @@
+[
+ {
+ "level": "Level1",
+ "data": [
+          {
+          "index": 1,
+          "question": "What year is the battle of Alamo?",
+          "answer": "option1",
+          "option1": "1836",
+          "option2": "1846",
+          "option3": "1855",
+          "option4": "1863",
+          "hLink": ""
+          },
+          {
+          "index": 2,
+          "question": "The Alamo was built in which year?",
+          "answer": "option1",
+          "option1": "1700",
+          "option2": "1756",
+          "option3": "1746",
+          "option4": "1744",
+          "hLink": ""
+          },
+          {
+          "index": 3,
+          "question": "Naming of San Antonio was done in which year?",
+          "answer": "option3",
+          "option1": "1630",
+          "option2": "1653",
+          "option3": "1691",
+          "option4": "1681",
+          "hLink": ""
+          },
+          {
+          "index": 4,
+          "question": "What is the height of Tower of the America in San Antonio?",
+          "answer": "option3",
+          "option1": "699",
+          "option2": "720",
+          "option3": "750",
+          "option4": "830",
+          "hLink": ""
+          },
+          {
+          "index": 5,
+          "question": "Which of this stadium located in San Antonio?",
+          "answer": "option1",
+          "option1": "Alamodome",
+          "option2": "Eagle",
+          "option3": "Darrell K Royal",
+          "option4": "Bobcat",
+          "hLink": ""
+          },
+          {
+          "index": 6,
+          "question": "What is San Antonio basketball team name?",
+          "answer": "option1",
+          "option1": "Spurs",
+          "option2": "Rockets",
+          "option3": "Mavericks",
+          "option4": "Nets",
+          "hLink": ""
+          },
+          {
+          "index": 7,
+          "question": "Which sports does San Antonio Spurs play?",
+          "answer": "option2",
+          "option1": "Baseball",
+          "option2": "Basketball",
+          "option3": "Soccer",
+          "option4": "Football",
+          "hLink": ""
+          },
+          {
+          "index": 8,
+          "question": "How many days does is San Antonio signature event Fiesta?",
+          "answer": "option1",
+          "option1": "11",
+          "option2": "9",
+          "option3": "10",
+          "option4": "5",
+          "hLink": ""
+          },
+          {
+          "index": 9,
+          "question": "First Fiesta festival took place in which year?   ",
+          "answer": "option1",
+          "option1": "1891",
+          "option2": "1881",
+          "option3": "1836",
+          "option4": "1879",
+          "hLink": ""
+          },
+          {
+          "index": 10,
+          "question": "Casa Navarro the restored home of Texas patriot José Antonio Navarro was built in which year?",
+          "answer": "option3",
+          "option1": "1853",
+          "option2": "1864",
+          "option3": "1848",
+          "option4": "1888",
+          "hLink": ""
+          }
+          ]
+ },
+ {
+ "level": "Level2",
+ "data": [
+          {
+          "index": 1,
+          "question": "What is the capital of Texas?",
+          "answer": "option4",
+          "option1": "San Antonio",
+          "option2": "Dallas",
+          "option3": "Houston",
+          "option4": "Austin",
+          "hLink": "http://www.50states.com/texas.htm#.Vjk8i_mrS00"
+          },
+          {
+          "index": 2,
+          "question": "What is Texas nick name?",
+          "answer": "option1",
+          "option1": "Lone Star State",
+          "option2": "Yellowhammer State",
+          "option3": "The Last Frontier",
+          "option4": "Constitution State",
+          "hLink": "http://www.50states.com/bio/nickname1.htm#.VjlA0_mrS00"
+          },
+          {
+          "index": 3,
+          "question": "Texas became the 28th state in which Year?",
+          "answer": "option3",
+          "option1": "1850",
+          "option2": "1855",
+          "option3": "1845",
+          "option4": "1860",
+          "hLink": ""
+          },
+          {
+          "index": 4,
+          "question": "What is the name of Austin airport",
+          "answer": "option4",
+          "option1": "Love Field Airport",
+          "option2": "George Bush Intercontinental",
+          "option3": "William P Hobby Airport",
+          "option4": "Bergstrom International Airport",
+          "hLink": "https://www.world-airport-codes.com/united-states/austin-bergstrom-international-11404.html"
+          },
+          {
+          "index": 5,
+          "question": "What is the state bird of Texas?",
+          "answer": "option4",
+          "option1": "Yellowhammer",
+          "option2": "Robin",
+          "option3": "Scissor-tailed Flycatcher",
+          "option4": "Mockingbird",
+          "hLink": "http://www.50states.com/bird/#.VjlGhPmrS00"
+          },
+          {
+          "index": 6,
+          "question": "What is the state flower of Texas?",
+          "answer": "option2",
+          "option1": "Yellow Jessamine",
+          "option2": "Bluebonnet",
+          "option3": "Red Clover",
+          "option4": "Indian Paintbrush",
+          "hLink": "http://www.50states.com/flower.htm#.VjlHCPmrS00"
+          },
+          {
+          "index": 7,
+          "question": "How many different nation’s flags have flown over Texas?",
+          "answer": "option4",
+          "option1": "7",
+          "option2": "8",
+          "option3": "5",
+          "option4": "6",
+          "hLink": "https://www.tsl.texas.gov/ref/abouttx/sixflags.html"
+          },
+          {
+          "index": 8,
+          "question": "What soft drink was invented in Waco, Texas?",
+          "answer": "option3",
+          "option1": "Sprite",
+          "option2": "Coke",
+          "option3": "Dr.Pepper",
+          "option4": "Fanta",
+          "hLink": "http://www.drpeppermuseum.com/about-us/history-of-dr--pepper.aspx"
+          },
+          {
+          "index": 9,
+          "question": "Which Texas Governor was born in Connecticut?",
+          "answer": "option2",
+          "option1": "Ann Richards",
+          "option2": "George W. Bush",
+          "option3": "Rick Perry",
+          "option4": "Mark White",
+          "hLink": "http://www.qsl.net/w5www/txtrivia.html"
+          },
+          {
+          "index": 10,
+          "question": "How many U.S Presidents where born in Texas?",
+          "answer": "option2",
+          "option1": "1",
+          "option2": "2",
+          "option3": "3",
+          "option4": "4",
+          "hLink": ""
+          }
+          ]
+ },
+ {
+ "level": "Level3",
+ "data": [
+          {
+          "index": 1,
+          "question": " Which State of USA was once part of Mexico?",
+          "answer": "option1",
+          "option1": "Texas",
+          "option2": "New York",
+          "option3": " Maryland ",
+          "option4": " Alaska ",
+          "hLink": ""
+          },
+          {
+          "index": 2,
+          "question": " What is the number of states in USA?",
+          "answer": "option1",
+          "option1": "50",
+          "option2": "24",
+          "option3": "60",
+          "option4": "49",
+          "hLink": ""
+          },
+          {
+          "index": 3,
+          "question": " When was Pearl Harbor attacked by the Japanese Air Force?",
+          "answer": "option3",
+          "option1": "May 7, 1945",
+          "option2": "June 22, 1942",
+          "option3": "December 7, 1941",
+          "option4": "September 3, 1939",
+          "hLink": ""
+          },
+          {
+          "index": 4,
+          "question": "How many stars are in the flag of USA? ",
+          "answer": "option3",
+          "option1": "24",
+          "option2": "49",
+          "option3": "50",
+          "option4": "75",
+          "hLink": ""
+          },
+          {
+          "index": 5,
+          "question": "Which is the only state with a different design on the front and back of its flag?",
+          "answer": "option2",
+          "option1": "Tennessee",
+          "option2": "Oregon",
+          "option3": "New York ",
+          "option4": "Arizona",
+          "hLink": ""
+          },
+          {
+          "index": 6,
+          "question": "What do Americans celebrate on 4th July? ",
+          "answer": "option1",
+          "option1": "Independence Day",
+          "option2": "The Discovery of America",
+          "option3": "The Revolution",
+          "option4": "Thanksgiving day",
+          "hLink": ""
+          },
+          {
+          "index": 7,
+          "question": "Where's the White House located?",
+          "answer": "option2",
+          "option1": "New York",
+          "option2": "Washington, D.C",
+          "option3": "Boston",
+          "option4": "Chicago",
+          "hLink": ""
+          },
+          {
+          "index": 8,
+          "question": "What is the smallest state by area in America?",
+          "answer": "option1",
+          "option1": "Rhode Island",
+          "option2": "Connecticut",
+          "option3": "Delaware",
+          "option4": "New Jersey",
+          "hLink": ""
+          },
+          {
+          "index": 9,
+          "question": "What state is Mount Rushmore located in?",
+          "answer": "option1",
+          "option1": "South Dakota",
+          "option2": "New Mexico",
+          "option3": "West Virginia",
+          "option4": "District of Columbia",
+          "hLink": ""
+          },
+          {
+          "index": 10,
+          "question": "What is the largest state by area in America?",
+          "answer": "option3",
+          "option1": "Texas",
+          "option2": "California",
+          "option3": "Alaska",
+          "option4": "Montana",
+          "hLink": ""
+          }
+          ]
+ },
+ {
+ "level": "Level4",
+ "data": [
+          {
+          "index": 1,
+          "question": "Iqaluit is a city on what large island in Nunavut?",
+          "answer": "option3",
+          "option1": "Hudson Island",
+          "option2": "Nunavut Island",
+          "option3": "Baffin Island",
+          "option4": "Ellesmere Island",
+          "hLink": ""
+          },
+          {
+          "index": 2,
+          "question": "Chided Juarez is a city in what Mexican state?",
+          "answer": "option2",
+          "option1": "Sonora",
+          "option2": "Chihuahua",
+          "option3": "Yucatan",
+          "option4": "Oaxaca",
+          "hLink": ""
+          },
+          {
+          "index": 3,
+          "question": "What is on the back of a Canadian dime?",
+          "answer": "option3",
+          "option1": "The Whitehouse",
+          "option2": "Queen",
+          "option3": "The Bluenose",
+          "option4": "Beaver",
+          "hLink": ""
+          },
+          {
+          "index": 4,
+          "question": "What is the capital of USA?",
+          "answer": "option3",
+          "option1": "Texas",
+          "option2": "New York",
+          "option3": "Washington D.C",
+          "option4": "Arizona",
+          "hLink": ""
+          },
+          {
+          "index": 5,
+          "question": "What is the capital of Mexico?",
+          "answer": "option1",
+          "option1": "Mexico City",
+          "option2": "Durango",
+          "option3": "Guanajuato",
+          "option4": "Tlaxcala",
+          "hLink": ""
+          },
+          {
+          "index": 6,
+          "question": "What is the capital of Canada?",
+          "answer": "option1",
+          "option1": "Ottawa",
+          "option2": "Toronto",
+          "option3": "Winnipeg",
+          "option4": "Edmonton",
+          "hLink": ""
+          },
+          {
+          "index": 7,
+          "question": "Which is not a country in North America?",
+          "answer": "option4",
+          "option1": "Panama",
+          "option2": "Costa Rica",
+          "option3": "Haiti",
+          "option4": "Guyana",
+          "hLink": ""
+          },
+          {
+          "index": 8,
+          "question": "How many countries are in North America?",
+          "answer": "option1",
+          "option1": "23",
+          "option2": "24",
+          "option3": "25",
+          "option4": "20",
+          "hLink": ""
+          },
+          {
+          "index": 9,
+          "question": "What is the capital of Cuba?",
+          "answer": "option1",
+          "option1": "Havana",
+          "option2": "Roseau",
+          "option3": "Kingston",
+          "option4": "St. George’s",
+          "hLink": ""
+          },
+          {
+          "index": 10,
+          "question": "Maine, New Hampshire, Vermont, and part of New York all border which Canadian province?",
+          "answer": "option4",
+          "option1": "Ontario",
+          "option2": "Manitoba",
+          "option3": "Saskatchewan",
+          "option4": "Quebec",
+          "hLink": ""
+          }
+          ]
+ },
+ {
+ "level": "Level4",
+ "data": [
+          {
+          "index": 1,
+          "question": "Iqaluit is a city on what large island in Nunavut?",
+          "answer": "option3",
+          "option1": "Hudson Island",
+          "option2": "Nunavut Island",
+          "option3": "Baffin Island",
+          "option4": "Ellesmere Island",
+          "hLink": ""
+          },
+          {
+          "index": 2,
+          "question": "Chided Juarez is a city in what Mexican state?",
+          "answer": "option2",
+          "option1": "Sonora",
+          "option2": "Chihuahua",
+          "option3": "Yucatan",
+          "option4": "Oaxaca",
+          "hLink": ""
+          },
+          {
+          "index": 3,
+          "question": "What is on the back of a Canadian dime?",
+          "answer": "option3",
+          "option1": "The Whitehouse",
+          "option2": "Queen",
+          "option3": "The Bluenose",
+          "option4": "Beaver",
+          "hLink": ""
+          },
+          {
+          "index": 4,
+          "question": "What is the capital of USA?",
+          "answer": "option3",
+          "option1": "Texas",
+          "option2": "New York",
+          "option3": "Washington D.C",
+          "option4": "Arizona",
+          "hLink": ""
+          },
+          {
+          "index": 5,
+          "question": "What is the capital of Mexico?",
+          "answer": "option1",
+          "option1": "Mexico City",
+          "option2": "Durango",
+          "option3": "Guanajuato",
+          "option4": "Tlaxcala",
+          "hLink": ""
+          },
+          {
+          "index": 6,
+          "question": "What is the capital of Canada?",
+          "answer": "option1",
+          "option1": "Ottawa",
+          "option2": "Toronto",
+          "option3": "Winnipeg",
+          "option4": "Edmonton",
+          "hLink": ""
+          },
+          {
+          "index": 7,
+          "question": "Which is not a country in North America?",
+          "answer": "option4",
+          "option1": "Panama",
+          "option2": "Costa Rica",
+          "option3": "Haiti",
+          "option4": "Guyana",
+          "hLink": ""
+          },
+          {
+          "index": 8,
+          "question": "How many countries are in North America?",
+          "answer": "option1",
+          "option1": "23",
+          "option2": "24",
+          "option3": "25",
+          "option4": "20",
+          "hLink": ""
+          },
+          {
+          "index": 9,
+          "question": "What is the capital of Cuba?",
+          "answer": "option1",
+          "option1": "Havana",
+          "option2": "Roseau",
+          "option3": "Kingston",
+          "option4": "St. George’s",
+          "hLink": ""
+          },
+          {
+          "index": 10,
+          "question": "Maine, New Hampshire, Vermont, and part of New York all border which Canadian province?",
+          "answer": "option4",
+          "option1": "Ontario",
+          "option2": "Manitoba",
+          "option3": "Saskatchewan",
+          "option4": "Quebec",
+          "hLink": ""
+          }
+          ]
+ },
+ {
+ "level": "Level6",
+ "data": [
+          {
+          "index": 1,
+          "question": "Which planet is the smallest planet?",
+          "answer": "option1",
+          "option1": "Mars",
+          "option2": "Earth",
+          "option3": "Venus",
+          "option4": "Jupiter",
+          "hLink": ""
+          },
+          {
+          "index": 2,
+          "question": " Which Planet is called as Morning and Evening star?",
+          "answer": "option4",
+          "option1": "Jupiter",
+          "option2": "Saturn",
+          "option3": "Mars",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 3,
+          "question": "Which planet has highest gravity relative to Earth?",
+          "answer": "option2",
+          "option1": "Mars",
+          "option2": "Jupiter",
+          "option3": "Saturn",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 4,
+          "question": "Which planet moon is named as Europa?",
+          "answer": "option3",
+          "option1": "Mars",
+          "option2": "Saturn",
+          "option3": "Jupiter",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 5,
+          "question": "Which planet moon is named as Titan?",
+          "answer": "option1",
+          "option1": "Saturn",
+          "option2": "Venus",
+          "option3": "Jupiter",
+          "option4": "Mars",
+          "hLink": ""
+          },
+          {
+          "index": 6,
+          "question": "Which is the largest planet in our solar system?",
+          "answer": "option1",
+          "option1": "Jupiter",
+          "option2": "Mars",
+          "option3": "Saturn",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 7,
+          "question": "In between which two planets asteroid belt is located?",
+          "answer": "option2",
+          "option1": "Jupiter and Saturn",
+          "option2": "Saturn and Uranus",
+          "option3": "Mercury and Venus",
+          "option4": "Mars and Jupiter",
+          "hLink": ""
+          },
+          {
+          "index": 8,
+          "question": "How many moons does Jupiter have?",
+          "answer": "option2",
+          "option1": "60",
+          "option2": "61",
+          "option3": "63",
+          "option4": "65",
+          "hLink": ""
+          },
+          {
+          "index": 9,
+          "question": "Which planet rotates backwards than the rest of the planets?",
+          "answer": "option1",
+          "option1": "Venus",
+          "option2": "Mars",
+          "option3": "Jupiter",
+          "option4": "Saturn",
+          "hLink": ""
+          },
+          {
+          "index": 10,
+          "question": "Which planet is called the red planet?",
+          "answer": "option1",
+          "option1": "Mars",
+          "option2": "Jupiter",
+          "option3": "Earth",
+          "option4": "Venus",
+          "hLink": ""
+          }
+          ]
+ },
+ {
+ "level": "Level6",
+ "data": [
+          {
+          "index": 1,
+          "question": "Which planet is the smallest planet?",
+          "answer": "option1",
+          "option1": "Mars",
+          "option2": "Earth",
+          "option3": "Venus",
+          "option4": "Jupiter",
+          "hLink": ""
+          },
+          {
+          "index": 2,
+          "question": " Which Planet is called as Morning and Evening star?",
+          "answer": "option4",
+          "option1": "Jupiter",
+          "option2": "Saturn",
+          "option3": "Mars",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 3,
+          "question": "Which planet has highest gravity relative to Earth?",
+          "answer": "option2",
+          "option1": "Mars",
+          "option2": "Jupiter",
+          "option3": "Saturn",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 4,
+          "question": "Which planet moon is named as Europa?",
+          "answer": "option3",
+          "option1": "Mars",
+          "option2": "Saturn",
+          "option3": "Jupiter",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 5,
+          "question": "Which planet moon is named as Titan?",
+          "answer": "option1",
+          "option1": "Saturn",
+          "option2": "Venus",
+          "option3": "Jupiter",
+          "option4": "Mars",
+          "hLink": ""
+          },
+          {
+          "index": 6,
+          "question": "Which is the largest planet in our solar system?",
+          "answer": "option1",
+          "option1": "Jupiter",
+          "option2": "Mars",
+          "option3": "Saturn",
+          "option4": "Venus",
+          "hLink": ""
+          },
+          {
+          "index": 7,
+          "question": "In between which two planets asteroid belt is located?",
+          "answer": "option2",
+          "option1": "Jupiter and Saturn",
+          "option2": "Saturn and Uranus",
+          "option3": "Mercury and Venus",
+          "option4": "Mars and Jupiter",
+          "hLink": ""
+          },
+          {
+          "index": 8,
+          "question": "How many moons does Jupiter have?",
+          "answer": "option2",
+          "option1": "60",
+          "option2": "61",
+          "option3": "63",
+          "option4": "65",
+          "hLink": ""
+          },
+          {
+          "index": 9,
+          "question": "Which planet rotates backwards than the rest of the planets?",
+          "answer": "option1",
+          "option1": "Venus",
+          "option2": "Mars",
+          "option3": "Jupiter",
+          "option4": "Saturn",
+          "hLink": ""
+          },
+          {
+          "index": 10,
+          "question": "Which planet is called the red planet?",
+          "answer": "option1",
+          "option1": "Mars",
+          "option2": "Jupiter",
+          "option3": "Earth",
+          "option4": "Venus",
+          "hLink": ""
+          }
+          ]
+ }
+ ]
