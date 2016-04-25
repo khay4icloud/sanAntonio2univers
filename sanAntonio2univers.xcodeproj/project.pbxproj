@@ -10,7 +10,6 @@
 		860122A31BEC671700F4FBE2 /* QuizViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 860122A21BEC671600F4FBE2 /* QuizViewController.m */; };
 		860122A51BEC67E900F4FBE2 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 860122A41BEC67E900F4FBE2 /* CoreData.framework */; };
 		860122B81BEC8E8400F4FBE2 /* Quiz.json in Resources */ = {isa = PBXBuildFile; fileRef = 860122B71BEC8E8400F4FBE2 /* Quiz.json */; };
-		86055BC51C121F7000914865 /* spaceS1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 86055BC41C121F7000914865 /* spaceS1.jpg */; };
 		8612A1851BD15B9A009F4129 /* MainStoryBoard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8612A1841BD15B9A009F4129 /* MainStoryBoard.storyboard */; };
 		8612A1881BD15E30009F4129 /* PlayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8612A1871BD15E30009F4129 /* PlayViewController.m */; };
 		8612A18B1BD15E6F009F4129 /* StarsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8612A18A1BD15E6F009F4129 /* StarsViewController.m */; };
@@ -19,14 +18,15 @@
 		862D86DB1B93C9EF003FEEC4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 862D86DA1B93C9EF003FEEC4 /* ViewController.m */; };
 		862D86E01B93C9EF003FEEC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862D86DF1B93C9EF003FEEC4 /* Assets.xcassets */; };
 		862D86E31B93C9EF003FEEC4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 862D86E11B93C9EF003FEEC4 /* LaunchScreen.storyboard */; };
-		866132C21BF0810C00673C1E /* sanAntonio2universe.png in Resources */ = {isa = PBXBuildFile; fileRef = 866132C11BF0810C00673C1E /* sanAntonio2universe.png */; };
-		8675E9C11C584D0B001C24E8 /* mainMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 8675E9C01C584D0B001C24E8 /* mainMenu.png */; };
 		869E407B1C89111B001136CF /* starsTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 869E407A1C89111B001136CF /* starsTableCell.xib */; };
-		869E407D1C8A178B001136CF /* spaceShip.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 869E407C1C8A178B001136CF /* spaceShip.PNG */; };
-		86D25DEE1C0ADA0A00D4B35A /* noStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 86D25DEC1C0ADA0A00D4B35A /* noStar.png */; };
-		86D25DEF1C0ADA0A00D4B35A /* yesStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 86D25DED1C0ADA0A00D4B35A /* yesStar.png */; };
-		86D25DF21C0ADB0300D4B35A /* noStarSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 86D25DF01C0ADB0300D4B35A /* noStarSmall.png */; };
-		86D25DF31C0ADB0300D4B35A /* yesStarSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 86D25DF11C0ADB0300D4B35A /* yesStarSmall.png */; };
+		86C5B01E1CCECA3100E75513 /* spaceShip.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B01D1CCECA3100E75513 /* spaceShip.PNG */; };
+		86C5B0251CCECA8600E75513 /* mainMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B01F1CCECA8600E75513 /* mainMenu.png */; };
+		86C5B0261CCECA8600E75513 /* noStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B0201CCECA8600E75513 /* noStar.png */; };
+		86C5B0271CCECA8600E75513 /* noStarSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B0211CCECA8600E75513 /* noStarSmall.png */; };
+		86C5B0281CCECA8600E75513 /* spaceS1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B0221CCECA8600E75513 /* spaceS1.jpg */; };
+		86C5B0291CCECA8600E75513 /* yesStar.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B0231CCECA8600E75513 /* yesStar.png */; };
+		86C5B02A1CCECA8600E75513 /* yesStarSmall.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B0241CCECA8600E75513 /* yesStarSmall.png */; };
+		86C5B02C1CCECAAF00E75513 /* sanAntonio2universe.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C5B02B1CCECAAF00E75513 /* sanAntonio2universe.png */; };
 		86EA522E1C5896150026D117 /* starsTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 86EA522D1C5896150026D117 /* starsTableCell.m */; };
 /* End PBXBuildFile section */
 
@@ -35,7 +35,6 @@
 		860122A21BEC671600F4FBE2 /* QuizViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuizViewController.m; sourceTree = "<group>"; };
 		860122A41BEC67E900F4FBE2 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		860122B71BEC8E8400F4FBE2 /* Quiz.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Quiz.json; sourceTree = "<group>"; };
-		86055BC41C121F7000914865 /* spaceS1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = spaceS1.jpg; path = ../../../Downloads/spaceS1.jpg; sourceTree = "<group>"; };
 		8612A1841BD15B9A009F4129 /* MainStoryBoard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = MainStoryBoard.storyboard; path = ../MainStoryBoard.storyboard; sourceTree = "<group>"; };
 		8612A1861BD15E30009F4129 /* PlayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayViewController.h; sourceTree = "<group>"; };
 		8612A1871BD15E30009F4129 /* PlayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayViewController.m; sourceTree = "<group>"; };
@@ -50,14 +49,15 @@
 		862D86DF1B93C9EF003FEEC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		862D86E21B93C9EF003FEEC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		862D86E41B93C9EF003FEEC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		866132C11BF0810C00673C1E /* sanAntonio2universe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sanAntonio2universe.png; path = ../../../Desktop/sanAntonio2universe.png; sourceTree = "<group>"; };
-		8675E9C01C584D0B001C24E8 /* mainMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mainMenu.png; path = ../../../Downloads/mainMenu.png; sourceTree = "<group>"; };
 		869E407A1C89111B001136CF /* starsTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = starsTableCell.xib; sourceTree = "<group>"; };
-		869E407C1C8A178B001136CF /* spaceShip.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spaceShip.PNG; path = ../../../Downloads/spaceShip.PNG; sourceTree = "<group>"; };
-		86D25DEC1C0ADA0A00D4B35A /* noStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = noStar.png; path = ../../../Downloads/noStar.png; sourceTree = "<group>"; };
-		86D25DED1C0ADA0A00D4B35A /* yesStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yesStar.png; path = ../../../Downloads/yesStar.png; sourceTree = "<group>"; };
-		86D25DF01C0ADB0300D4B35A /* noStarSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = noStarSmall.png; path = ../../../Downloads/noStarSmall.png; sourceTree = "<group>"; };
-		86D25DF11C0ADB0300D4B35A /* yesStarSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yesStarSmall.png; path = ../../../Downloads/yesStarSmall.png; sourceTree = "<group>"; };
+		86C5B01D1CCECA3100E75513 /* spaceShip.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spaceShip.PNG; sourceTree = "<group>"; };
+		86C5B01F1CCECA8600E75513 /* mainMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainMenu.png; sourceTree = "<group>"; };
+		86C5B0201CCECA8600E75513 /* noStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noStar.png; sourceTree = "<group>"; };
+		86C5B0211CCECA8600E75513 /* noStarSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noStarSmall.png; sourceTree = "<group>"; };
+		86C5B0221CCECA8600E75513 /* spaceS1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spaceS1.jpg; sourceTree = "<group>"; };
+		86C5B0231CCECA8600E75513 /* yesStar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yesStar.png; sourceTree = "<group>"; };
+		86C5B0241CCECA8600E75513 /* yesStarSmall.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yesStarSmall.png; sourceTree = "<group>"; };
+		86C5B02B1CCECAAF00E75513 /* sanAntonio2universe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sanAntonio2universe.png; sourceTree = "<group>"; };
 		86EA522C1C5896150026D117 /* starsTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = starsTableCell.h; sourceTree = "<group>"; };
 		86EA522D1C5896150026D117 /* starsTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = starsTableCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -148,14 +148,14 @@
 		862D86D31B93C9EF003FEEC4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				869E407C1C8A178B001136CF /* spaceShip.PNG */,
-				8675E9C01C584D0B001C24E8 /* mainMenu.png */,
-				86055BC41C121F7000914865 /* spaceS1.jpg */,
-				86D25DF01C0ADB0300D4B35A /* noStarSmall.png */,
-				86D25DF11C0ADB0300D4B35A /* yesStarSmall.png */,
-				86D25DEC1C0ADA0A00D4B35A /* noStar.png */,
-				86D25DED1C0ADA0A00D4B35A /* yesStar.png */,
-				866132C11BF0810C00673C1E /* sanAntonio2universe.png */,
+				86C5B02B1CCECAAF00E75513 /* sanAntonio2universe.png */,
+				86C5B01F1CCECA8600E75513 /* mainMenu.png */,
+				86C5B0201CCECA8600E75513 /* noStar.png */,
+				86C5B0211CCECA8600E75513 /* noStarSmall.png */,
+				86C5B0221CCECA8600E75513 /* spaceS1.jpg */,
+				86C5B0231CCECA8600E75513 /* yesStar.png */,
+				86C5B0241CCECA8600E75513 /* yesStarSmall.png */,
+				86C5B01D1CCECA3100E75513 /* spaceShip.PNG */,
 				862D86DF1B93C9EF003FEEC4 /* Assets.xcassets */,
 				862D86E11B93C9EF003FEEC4 /* LaunchScreen.storyboard */,
 				862D86E41B93C9EF003FEEC4 /* Info.plist */,
@@ -222,19 +222,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86C5B0281CCECA8600E75513 /* spaceS1.jpg in Resources */,
 				8612A1851BD15B9A009F4129 /* MainStoryBoard.storyboard in Resources */,
 				862D86E31B93C9EF003FEEC4 /* LaunchScreen.storyboard in Resources */,
-				869E407D1C8A178B001136CF /* spaceShip.PNG in Resources */,
-				86055BC51C121F7000914865 /* spaceS1.jpg in Resources */,
-				86D25DF21C0ADB0300D4B35A /* noStarSmall.png in Resources */,
+				86C5B0271CCECA8600E75513 /* noStarSmall.png in Resources */,
+				86C5B0261CCECA8600E75513 /* noStar.png in Resources */,
 				869E407B1C89111B001136CF /* starsTableCell.xib in Resources */,
-				8675E9C11C584D0B001C24E8 /* mainMenu.png in Resources */,
-				86D25DEE1C0ADA0A00D4B35A /* noStar.png in Resources */,
+				86C5B02C1CCECAAF00E75513 /* sanAntonio2universe.png in Resources */,
+				86C5B0251CCECA8600E75513 /* mainMenu.png in Resources */,
+				86C5B01E1CCECA3100E75513 /* spaceShip.PNG in Resources */,
 				860122B81BEC8E8400F4FBE2 /* Quiz.json in Resources */,
 				862D86E01B93C9EF003FEEC4 /* Assets.xcassets in Resources */,
-				86D25DEF1C0ADA0A00D4B35A /* yesStar.png in Resources */,
-				866132C21BF0810C00673C1E /* sanAntonio2universe.png in Resources */,
-				86D25DF31C0ADB0300D4B35A /* yesStarSmall.png in Resources */,
+				86C5B0291CCECA8600E75513 /* yesStar.png in Resources */,
+				86C5B02A1CCECA8600E75513 /* yesStarSmall.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
