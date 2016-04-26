@@ -67,22 +67,74 @@
     cell.textLabel.text = [levelsArray objectAtIndex:indexPath.row];
     cell.textLabel.textAlignment = NSTextAlignmentCenter;
     
-    [self displayFor:cell atIndexPath:indexPath];
+    if (indexPath.row!=0) {
+        [self displayFor:cell atIndexPath:indexPath];
+    }
     
     return cell;
 }
 
 - displayFor:(UITableViewCell *)cell atIndexPath:(NSIndexPath *)indexPath {
     
-//    if (<#condition#>) {
-//        <#statements#>
-//    } else {
-//        cell.userInteractionEnabled = NO;
-//        cell.selectionStyle = UITableViewCellSelectionStyleNone;
-//    }
+    int level_starCount;
+    NSUserDefaults* defaults = [NSUserDefaults standardUserDefaults];
     
-//    cell.backgroundColor = [UIColor grayColor];
-//    cell.userInteractionEnabled = NO;
+    switch (indexPath.row-1) {
+        case 0:
+        {
+            level_starCount = [defaults integerForKey:@"LEVEL0"];
+        }
+            break;
+            
+        case 1:
+        {
+            level_starCount = [defaults integerForKey:@"LEVEL1"];
+        }
+            break;
+            
+        case 2:
+        {
+            level_starCount = [defaults integerForKey:@"LEVEL2"];
+        }
+            break;
+            
+        case 3:
+        {
+            level_starCount = [defaults integerForKey:@"LEVEL3"];
+        }
+            break;
+            
+        case 4:
+        {
+            level_starCount = [defaults integerForKey:@"LEVEL4"];
+        }
+            break;
+            
+        case 5:
+        {
+            level_starCount = [defaults integerForKey:@"LEVEL5"];
+        }
+            break;
+            
+        case 6:
+        {
+            level_starCount = [defaults integerForKey:@"LEVEL6"];
+        }
+            break;
+            
+        default:
+            break;
+    }
+    
+    
+        if (level_starCount > 3) {
+            cell.userInteractionEnabled = YES;
+            cell.backgroundColor = [UIColor whiteColor];
+        } else {
+            cell.userInteractionEnabled = NO;
+            cell.backgroundColor = [UIColor grayColor];
+        }
+    
     
     return cell;
 }
@@ -100,7 +152,7 @@
         QuizViewController *quizViewController = [[QuizViewController alloc] init];
         quizViewController = segue.destinationViewController;
         quizViewController.titleName = [levelsArray objectAtIndex:indexPath.row];
-
+        
         NSLog(@"Title Label: %@", quizViewController.titleName);
     }
 }
