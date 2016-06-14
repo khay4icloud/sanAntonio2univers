@@ -73,9 +73,39 @@
         
         //Set final image for the level here
         
-        UIImage * spaceShipImg = [UIImage imageNamed: @"spaceShip.png"];
-        UIImageView * myImageView = [[UIImageView alloc] initWithImage: spaceShipImg];
         
+        
+        //UIImage * spaceShipImg = [UIImage imageNamed: @"level 1.png"];
+        UIImageView * myImageView;
+        
+        switch (levelCount) {
+            case 0:
+                myImageView = [[UIImageView alloc] initWithImage: [UIImage imageNamed: @"level 1.png"]];
+                break;
+            case 1:
+                myImageView = [[UIImageView alloc] initWithImage: [UIImage imageNamed: @"Level 2.png"]];
+                break;
+            case 2:
+                myImageView = [[UIImageView alloc] initWithImage: [UIImage imageNamed: @"level 3.png"]];
+                break;
+            case 3:
+                myImageView = [[UIImageView alloc] initWithImage: [UIImage imageNamed: @"lavel 4.png"]];
+                break;
+            case 4:
+                myImageView = [[UIImageView alloc] initWithImage: [UIImage imageNamed: @"level 5.png"]];
+                break;
+            case 5:
+                myImageView = [[UIImageView alloc] initWithImage: [UIImage imageNamed: @"level 6.png"]];
+                break;
+            case 6:
+                myImageView = [[UIImageView alloc] initWithImage: [UIImage imageNamed: @"level 7.png"]];
+                break;
+                
+            default:
+                break;
+        }
+        
+        myImageView.frame = self.view.bounds;
         [self.view addSubview:myImageView];
         
         [NSTimer scheduledTimerWithTimeInterval:10.0
