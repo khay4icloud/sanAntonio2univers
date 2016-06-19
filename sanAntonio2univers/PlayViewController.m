@@ -2,8 +2,8 @@
 //  PlayViewController.m
 //  sanAntonio2univers
 //
-//  Created by USAA on 10/16/15.
-//  Copyright © 2015 KhayG. All rights reserved.
+//  Created by StMarys on 10/16/15.
+//  Copyright © 2015 Shiva Narsimha Pulluri All rights reserved.
 //
 
 #import "PlayViewController.h"
@@ -126,14 +126,15 @@
             break;
     }
     
-    
-        if (level_starCount > 3) {
-            cell.userInteractionEnabled = YES;
-            cell.backgroundColor = [UIColor whiteColor];
-        } else {
-            cell.userInteractionEnabled = NO;
-            cell.backgroundColor = [UIColor grayColor];
-        }
+//    NSLog(@"level_starCount: %d",level_starCount);
+//    
+//        if (level_starCount > 3) {
+//            cell.userInteractionEnabled = YES;
+//            cell.backgroundColor = [UIColor whiteColor];
+//        } else {
+//            cell.userInteractionEnabled = NO;
+//            cell.backgroundColor = [UIColor grayColor];
+//        }
     
     
     return cell;

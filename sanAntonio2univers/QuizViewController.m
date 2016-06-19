@@ -2,8 +2,8 @@
 //  QuizViewController.m
 //  sanAntonio2univers
 //
-//  Created by USAA on 11/5/15.
-//  Copyright © 2015 KhayG. All rights reserved.
+//  Created by StMarys on 11/5/15.
+//  Copyright © 2015 Shiva Narsimha Pulluri All rights reserved.
 //
 
 #import "QuizViewController.h"
@@ -108,7 +108,7 @@
         myImageView.frame = self.view.bounds;
         [self.view addSubview:myImageView];
         
-        [NSTimer scheduledTimerWithTimeInterval:10.0
+        [NSTimer scheduledTimerWithTimeInterval:5.0
                                          target:self
                                        selector:@selector(dismissVC)
                                        userInfo:nil

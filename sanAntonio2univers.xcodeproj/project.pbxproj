@@ -18,6 +18,7 @@
 		862D86DB1B93C9EF003FEEC4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 862D86DA1B93C9EF003FEEC4 /* ViewController.m */; };
 		862D86E01B93C9EF003FEEC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 862D86DF1B93C9EF003FEEC4 /* Assets.xcassets */; };
 		862D86E31B93C9EF003FEEC4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 862D86E11B93C9EF003FEEC4 /* LaunchScreen.storyboard */; };
+		86649CBA1D13CE0700CB2AC5 /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 86649CB91D13CE0700CB2AC5 /* HelpViewController.m */; };
 		869DEDA51CD1999A006C3BC3 /* Capture 2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 869DEDA41CD1999A006C3BC3 /* Capture 2.PNG */; };
 		869DEDA71CD19AD9006C3BC3 /* Capture 2-1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 869DEDA61CD19AD9006C3BC3 /* Capture 2-1.PNG */; };
 		869E407B1C89111B001136CF /* starsTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 869E407A1C89111B001136CF /* starsTableCell.xib */; };
@@ -59,6 +60,8 @@
 		862D86DF1B93C9EF003FEEC4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		862D86E21B93C9EF003FEEC4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		862D86E41B93C9EF003FEEC4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86649CB81D13CE0700CB2AC5 /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpViewController.h; sourceTree = "<group>"; };
+		86649CB91D13CE0700CB2AC5 /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpViewController.m; sourceTree = "<group>"; };
 		869DEDA41CD1999A006C3BC3 /* Capture 2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Capture 2.PNG"; sourceTree = "<group>"; };
 		869DEDA61CD19AD9006C3BC3 /* Capture 2-1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Capture 2-1.PNG"; sourceTree = "<group>"; };
 		869E407A1C89111B001136CF /* starsTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = starsTableCell.xib; sourceTree = "<group>"; };
@@ -154,6 +157,7 @@
 			isa = PBXGroup;
 			children = (
 				8601229E1BEC660F00F4FBE2 /* Main View */,
+				86649CBB1D13CE1600CB2AC5 /* Help View */,
 				8601229F1BEC663800F4FBE2 /* Play View */,
 				860122A01BEC664600F4FBE2 /* Stars View */,
 				860122B61BEC8DDD00F4FBE2 /* Question CoreData */,
@@ -193,6 +197,15 @@
 				862D86D41B93C9EF003FEEC4 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		86649CBB1D13CE1600CB2AC5 /* Help View */ = {
+			isa = PBXGroup;
+			children = (
+				86649CB81D13CE0700CB2AC5 /* HelpViewController.h */,
+				86649CB91D13CE0700CB2AC5 /* HelpViewController.m */,
+			);
+			name = "Help View";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -292,6 +305,7 @@
 				862D86D51B93C9EF003FEEC4 /* main.m in Sources */,
 				8612A18B1BD15E6F009F4129 /* StarsViewController.m in Sources */,
 				860122A31BEC671700F4FBE2 /* QuizViewController.m in Sources */,
+				86649CBA1D13CE0700CB2AC5 /* HelpViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

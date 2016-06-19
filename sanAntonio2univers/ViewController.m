@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "PlayViewController.h"
 #import "StarsViewController.h"
+#import "HelpViewController.h"
 
 @interface ViewController ()
 
@@ -48,5 +49,8 @@
 }
 
 - (IBAction)helpButton:(id)sender {
+    
+    HelpViewController *helpViewController = [self.storyboard instantiateViewControllerWithIdentifier:@"helpVCStoryBoard"];
+    [self presentViewController:helpViewController animated:YES completion:nil];
 }
 @end

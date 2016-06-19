@@ -2,8 +2,8 @@
 //  PlayViewController.h
 //  sanAntonio2univers
 //
-//  Created by USAA on 10/16/15.
-//  Copyright © 2015 KhayG. All rights reserved.
+//  Created by Stmarys on 10/16/15.
+//  Copyright © 2015 Shiva Narsimha Pulluri All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

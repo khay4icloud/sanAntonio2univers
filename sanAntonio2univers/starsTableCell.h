@@ -2,8 +2,8 @@
 //  starsTableCell.h
 //  sanAntonio2univers
 //
-//  Created by USAA on 1/27/16.
-//  Copyright © 2016 KhayG. All rights reserved.
+//  Created by StMarys on 1/27/16.
+//  Copyright © 2016 Shiva Narsimha Pulluri All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
